@@ -19,7 +19,7 @@
 
 ### Day 3: 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I've gone through Visual Design exercises on FreeCodeCamp.
 
 **Thoughts** 
 
