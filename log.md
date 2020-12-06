@@ -33,3 +33,19 @@
 
 **Link(s) to work**: (https://www.freecodecamp.org/learn/)
 
+### Day 5: 
+
+**Today's Progress**:  Visual design challenge in freeCodeCamp completed.
+
+**Thoughts** 
+
+**Link(s) to work**: (https://www.freecodecamp.org/learn/)
+                     
+### Day 6: 
+
+**Today's Progress**:  Created 2 CSS illustrations.
+
+**Thoughts** 
+
+**Link(s) to work**: (https://codepen.io/miraka/pen/MWjymoV)
+                     (https://codepen.io/miraka/pen/KKgzmaX)
