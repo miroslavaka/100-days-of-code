@@ -9,7 +9,6 @@
 **Link to work:** (https://www.freecodecamp.org/learn/)
 
 ### Day 2: December 1, 2020 
-##### 
 
 **Today's Progress**: Completed Basic CSS challenge in #freeCodeCamp 
 
@@ -17,7 +16,7 @@
 
 **Link(s) to work**: (https://www.freecodecamp.org/learn/)
 
-### Day 3: 
+### Day 3: December 2, 2020
 
 **Today's Progress**: I've gone through Visual Design exercises on FreeCodeCamp.
 
@@ -25,7 +24,7 @@
 
 **Link(s) to work**: (https://www.freecodecamp.org/learn/)
 
-### Day 4: 
+### Day 4: December 3, 2020
 
 **Today's Progress**: I've gone through Visual Design exercises on FreeCodeCamp.
 
@@ -33,7 +32,7 @@
 
 **Link(s) to work**: (https://www.freecodecamp.org/learn/)
 
-### Day 5: 
+### Day 5: December 4, 2020
 
 **Today's Progress**:  Visual design challenge in freeCodeCamp completed.
 
@@ -41,7 +40,7 @@
 
 **Link(s) to work**: (https://www.freecodecamp.org/learn/)
                      
-### Day 6: 
+### Day 6: December 5, 2020
 
 **Today's Progress**:  Created 2 CSS illustrations.
 
@@ -49,7 +48,7 @@
 
 **Link(s) to work**: (https://codepen.io/miraka/pen/MWjymoV)
                      (https://codepen.io/miraka/pen/KKgzmaX)                     
-### Day 7: 
+### Day 7: December 6, 2020
 
 **Today's Progress**:  40% of Applied Accessibility challenge in #freeCodeCamp done.
 
@@ -57,7 +56,7 @@
 
 **Link(s) to work**: (https://www.freecodecamp.org/learn/)
 
-### Day 8: 
+### Day 8: December 7, 2020
 
 **Today's Progress**:  Applied Accessibility challenge in #freeCodeCamp completed.
 
@@ -65,7 +64,7 @@
 
 **Link(s) to work**: (https://www.freecodecamp.org/learn/)
 
-### Day 9: 
+### Day 9: December 8, 2020
 
 **Today's Progress**:  Working on and completed Responsive Web Design Principles challenge in #freeCodeCamp.
 
@@ -73,7 +72,7 @@
 
 **Link(s) to work**: (https://www.freecodecamp.org/learn/)
 
-### Day 10: 
+### Day 10: December 9, 2020
 
 **Today's Progress**:  Learning PostgreSQL - installation, creating schemas, creating tables, inserting values.
                        (studying according tutorial: https://www.youtube.com/watch?v=-VO7YjQeG6Y)
@@ -81,7 +80,7 @@
 
 **Link(s) to work**: ()
 
-### Day 11: 
+### Day 11: December 10, 2020
 
 **Today's Progress**:  Learning PostgreSQL - creating schemas, creating tables, inserting values, select.
                        (studying according tutorial: https://www.youtube.com/watch?v=-VO7YjQeG6Y)
@@ -89,7 +88,7 @@
 
 **Link(s) to work**: ()
 
-### Day 12: 
+### Day 12: December 11, 2020
 
 **Today's Progress**:  Learning PostgreSQL: Join, Where, Like, Group By, Order By, Count, Sum, Avg
                        (studying according tutorial: https://www.youtube.com/watch?v=-VO7YjQeG6Y)
@@ -97,7 +96,7 @@
 
 **Link(s) to work**: ()
 
-### Day 13: 
+### Day 13: December 12, 2020
 
 **Today's Progress**:  Learning PostgreSQL: Join, Where, Like, Group By, Order By, Count, Sum, Avg
                        (live online training via: https://www.czechitas.cz/en/)
@@ -105,7 +104,7 @@
 
 **Link(s) to work**: ()
 
-### Day 14: 
+### Day 14: December 13, 2020
 
 **Today's Progress**:  Responsive Web design principles and CSS Flexbox in #freeCodeCamp completed
                        (studying according tutorial: https://www.freecodecamp.org/learn/)
@@ -113,7 +112,7 @@
 
 **Link(s) to work**: ()
 
-### Day 15: 
+### Day 15: December 14, 2020
 
 **Today's Progress**:  PROJECT #1 - started 1st Responsive web design - Build Tribute page for Ada Lovelace
                        (objective: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
@@ -121,7 +120,7 @@
 
 **Link(s) to work**: (https://codepen.io/miraka/pen/ZEpeVQo)
  
-### Day 16: 
+### Day 16: December 15, 2020
 
 **Today's Progress**:  PROJECT #1 - finished 1st Responsive web design - Build Tribute page for Ada Lovelace
                        (objective: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
@@ -129,7 +128,7 @@
 
 **Link(s) to work**: (https://codepen.io/miraka/pen/ZEpeVQo)
 
-### Day 17 & Day 18: 
+### Day 17 & Day 18: December 16, December 17, 2020
 
 **Today's Progress**:  PROJECT #2 - started 2nd Responsive web design - Build Survey Form 
                        (objective: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
@@ -137,7 +136,7 @@
 
 **Link(s) to work**: (https://codepen.io/miraka/pen/dypRNPV)
 
-### Day 19: 
+### Day 19: December 18, 2020
 
 **Today's Progress**:  PROJECT #2 - started 2nd Responsive web design - Build Survey Form 
                        (objective: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
