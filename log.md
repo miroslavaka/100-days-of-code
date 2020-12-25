@@ -140,7 +140,54 @@
 
 **Today's Progress**:  PROJECT #2 - started 2nd Responsive web design - Build Survey Form 
                        (objective: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
-**Thoughts**          all tests passed (17/17)
+**Thoughts**           all tests passed (17/17)
 
 **Link(s) to work**: (https://codepen.io/miraka/pen/dypRNPV)
 
+### Day 20: December 19, 2020
+
+**Today's Progress**:  PROJECT #3 - working on 3rd Responsive web design - Product Landing page 
+                       (objective: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
+**Thoughts**          
+
+**Link(s) to work**: (https://codepen.io/miraka/pen/poEWNWL)
+
+### Day 21: December 20, 2020
+
+**Today's Progress**:  PROJECT #3 - working on 3rd Responsive web design - Product Landing page 
+                       (objective: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
+**Thoughts**          
+
+**Link(s) to work**: (https://codepen.io/miraka/pen/poEWNWL)
+
+### Day 22: December 21, 2020
+
+**Today's Progress**:  PROJECT #3 - 3rd Responsive web design - Product Landing page finalization
+                       (objective: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
+**Thoughts**          
+
+**Link(s) to work**: (https://codepen.io/miraka/pen/poEWNWL)
+
+### Day 23: December 22, 2020
+
+**Today's Progress**:  PROJECT #4 - 4th Responsive web design - working on Technical Documentation page
+                       (objective: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page)
+**Thoughts**          
+
+**Link(s) to work**: (https://codepen.io/miraka/pen/poEdPyP)
+
+### Day 24: December 23, 2020
+
+**Today's Progress**:  PROJECT #4 - 4th Responsive web design - working on Technical Documentation page
+                       (objective: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page)
+**Thoughts**          
+
+**Link(s) to work**: (https://codepen.io/miraka/pen/poEdPyP)
+
+### Day 25: December 24, 2020
+
+**Today's Progress**:  PROJECT #4 - 4th Responsive web design -Technical Documentation page finalization
+                       (objective: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page)
+**Thoughts**           tests passed (15/16)
+
+**Link(s) to work**: (https://codepen.io/miraka/pen/poEdPyP)
