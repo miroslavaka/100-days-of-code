@@ -114,7 +114,7 @@
 
 ### Day 15: December 14, 2020
 
-**Today's Progress**:  PROJECT #1 - started 1st Responsive web design - Build Tribute page for Ada Lovelace
+**Today's Progress**:  PROJECT #1 - started working on Responsive web design - Build Tribute page for Ada Lovelace
                        (objective: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
 **Thoughts** 
 
@@ -122,7 +122,7 @@
  
 ### Day 16: December 15, 2020
 
-**Today's Progress**:  PROJECT #1 - finished 1st Responsive web design - Build Tribute page for Ada Lovelace
+**Today's Progress**:  PROJECT #1 - finished Responsive web design - Build Tribute page for Ada Lovelace
                        (objective: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
 **Thoughts**           project completion passed, but 1 test is missing (9/10)
 
@@ -130,7 +130,7 @@
 
 ### Day 17 & Day 18: December 16, December 17, 2020
 
-**Today's Progress**:  PROJECT #2 - started 2nd Responsive web design - Build Survey Form 
+**Today's Progress**:  PROJECT #2 - started working on Responsive web design - Build Survey Form 
                        (objective: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
 **Thoughts**          
 
@@ -138,7 +138,7 @@
 
 ### Day 19: December 18, 2020
 
-**Today's Progress**:  PROJECT #2 - started 2nd Responsive web design - Build Survey Form 
+**Today's Progress**:  PROJECT #2 - working on Responsive web design - Build Survey Form 
                        (objective: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
 **Thoughts**           all tests passed (17/17)
 
@@ -146,7 +146,7 @@
 
 ### Day 20: December 19, 2020
 
-**Today's Progress**:  PROJECT #3 - working on 3rd Responsive web design - Product Landing page 
+**Today's Progress**:  PROJECT #3 - working on Responsive web design - Product Landing page 
                        (objective: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
 **Thoughts**          
 
@@ -154,7 +154,7 @@
 
 ### Day 21: December 20, 2020
 
-**Today's Progress**:  PROJECT #3 - working on 3rd Responsive web design - Product Landing page 
+**Today's Progress**:  PROJECT #3 - working on Responsive web design - Product Landing page 
                        (objective: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
 **Thoughts**          
 
@@ -162,7 +162,7 @@
 
 ### Day 22: December 21, 2020
 
-**Today's Progress**:  PROJECT #3 - 3rd Responsive web design - Product Landing page finalization
+**Today's Progress**:  PROJECT #3 - Responsive web design - Product Landing page finalization
                        (objective: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
 **Thoughts**          
 
@@ -170,7 +170,7 @@
 
 ### Day 23: December 22, 2020
 
-**Today's Progress**:  PROJECT #4 - 4th Responsive web design - working on Technical Documentation page
+**Today's Progress**:  PROJECT #4 - Responsive web design - working on Technical Documentation page
                        (objective: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page)
 **Thoughts**          
 
@@ -178,7 +178,7 @@
 
 ### Day 24: December 23, 2020
 
-**Today's Progress**:  PROJECT #4 - 4th Responsive web design - working on Technical Documentation page
+**Today's Progress**:  PROJECT #4 - Responsive web design - working on Technical Documentation page
                        (objective: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page)
 **Thoughts**          
 
@@ -186,8 +186,211 @@
 
 ### Day 25: December 24, 2020
 
-**Today's Progress**:  PROJECT #4 - 4th Responsive web design -Technical Documentation page finalization
+**Today's Progress**:  PROJECT #4 - Responsive web design -Technical Documentation page finalization
                        (objective: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page)
 **Thoughts**           tests passed (15/16)
 
 **Link(s) to work**: (https://codepen.io/miraka/pen/poEdPyP)
+
+### Day 26: December 25, 2020
+
+**Today's Progress**:  PROJECT #5 - Responsive web design - started working on Personal Portfolio page
+                       (objective: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage)
+**Thoughts**           
+
+**Link(s) to work**: (https://codepen.io/miraka/pen/mdrpdpW)
+
+### Day 27: December 26, 2020
+
+**Today's Progress**:  PROJECT #5 - Responsive web design - working on Personal Portfolio page
+                       (objective: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage)
+**Thoughts**           
+
+**Link(s) to work**: (https://codepen.io/miraka/pen/mdrpdpW)
+
+### Day 28: December 27, 2020
+
+**Today's Progress**:  PROJECT #5 - Responsive web design - Personal Portfolio page completed
+                       (objective: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage)
+**Thoughts**           tests passed (15/16)
+
+**Link(s) to work**: (https://codepen.io/miraka/pen/mdrpdpW)
+
+### Day 29: December 28, 2020
+
+**Today's Progress**:  started working on Basic JavaScript challenges in freecodecamp.com
+                       (objective: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+**Thoughts**           
+
+**Link(s) to work**: ()
+
+### Day 30: December 29, 2020
+
+**Today's Progress**:  working on Basic JavaScript challenges in freecodecamp.com
+                       (objective: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+**Thoughts**           
+
+**Link(s) to work**: ()
+
+### Day 31: December 30, 2020
+
+**Today's Progress**:  working on Basic JavaScript challenges in freecodecamp.com
+                       (objective: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+**Thoughts**           
+
+**Link(s) to work**: ()
+
+### Day 32: December 31, 2020
+
+**Today's Progress**:  working on Basic JavaScript challenges in freecodecamp.com
+                       (objective: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+**Thoughts**           
+
+**Link(s) to work**: ()
+
+### Day 33: January 1, 2021
+
+**Today's Progress**:  working on Basic JavaScript challenges in freecodecamp.com
+                       (objective: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+**Thoughts**           
+
+**Link(s) to work**: ()
+
+### Day 34: January 2, 2021
+
+**Today's Progress**:  working on Basic JavaScript challenges in freecodecamp.com
+                       (objective: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+**Thoughts**           
+
+**Link(s) to work**: ()
+
+### Day 35: January 3, 2021
+
+**Today's Progress**:  working on Basic JavaScript challenges in freecodecamp.com
+                       (objective: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+**Thoughts**           
+
+**Link(s) to work**: ()
+
+### Day 36: January 4, 2021
+
+**Today's Progress**:  working on Basic JavaScript challenges in freecodecamp.com
+                       (objective: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+**Thoughts**           
+
+**Link(s) to work**: ()
+
+### Day 37: January 5, 2021
+
+**Today's Progress**:  finished with Basic JavaScript challenges in freecodecamp.com
+                       (objective: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+**Thoughts**           
+
+**Link(s) to work**: ()
+
+### Day 38: January 6, 2021
+
+**Today's Progress**:  started working on ES6 in freecodecamp.com
+                       (objective: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/)
+**Thoughts**           
+
+**Link(s) to work**: ()
+
+### Day 39: January 7, 2021
+
+**Today's Progress**:   working on ES6 challenges in freecodecamp.com 
+                       (objective: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/)
+**Thoughts**           
+
+**Link(s) to work**: ()
+
+### Day 40: January 8, 2021
+
+**Today's Progress**:   working on daily UI challenges in dailyui.co - challenge 001: Sign Up form
+                       (objective: https://www.dailyui.co/)
+**Thoughts**           
+
+**Link(s) to work**: (https://codepen.io/miraka/pen/MWjPRpy)
+
+### Day 41: January 9, 2021
+
+**Today's Progress**:   working on daily UI challenges in dailyui.co - challenge 001: Sign Up form
+                       (objective: https://www.dailyui.co/)
+**Thoughts**           
+
+**Link(s) to work**: (https://codepen.io/miraka/pen/MWjPRpy)
+
+### Day 42: January 10, 2021
+
+**Today's Progress**:   working on daily UI challenges in dailyui.co - challenge 002: Credit Card checkout
+                       (objective: https://www.dailyui.co/)
+**Thoughts**           
+
+**Link(s) to work**: (https://codepen.io/miraka/pen/gOwBXOx)
+
+### Day 43: January 11, 2021
+
+**Today's Progress**:   working on daily UI challenges in dailyui.co - challenge 002: Credit Card checkout
+                       (objective: https://www.dailyui.co/)
+**Thoughts**           
+
+**Link(s) to work**: (https://codepen.io/miraka/pen/gOwBXOx)
+
+### Day 44: January 12, 2021
+
+**Today's Progress**:   learning Javascript functions via #linkedinlearning 
+                       (objective: https://www.linkedin.com/learning/javascript-functions)
+**Thoughts**           
+
+**Link(s) to work**: ()
+
+### Day 45: January 13, 2021
+
+**Today's Progress**:   learning Javascript functions via #linkedinlearning - using functions as objects,  invoking instances via constructor
+                       (objective: https://www.linkedin.com/learning/javascript-functions)
+**Thoughts**           
+
+**Link(s) to work**: ()
+
+### Day 46: January 14, 2021
+
+**Today's Progress**:   learning Javascript functions via #linkedinlearning - using functions as objects,  invoking instances via constructor
+                       (objective: https://www.linkedin.com/learning/javascript-functions)
+**Thoughts**           
+
+**Link(s) to work**: ()
+
+### Day 47: January 15, 2021
+
+**Today's Progress**:   working on daily UI challenges in dailyui.co - challenge 003: Landing page
+                       (objective: https://www.dailyui.co/)
+**Thoughts**           
+
+**Link(s) to work**: (https://codepen.io/miraka/pen/KKgJdEx)
+
+### Day 48: January 16, 2021
+
+**Today's Progress**:   working on daily UI challenges in dailyui.co - challenge 004: Calculator 
+                       (objective: https://www.dailyui.co/)
+**Thoughts**           
+
+**Link(s) to work**: (https://codepen.io/miraka/pen/poEGgBv)
+
+### Day 49: January 17, 2021
+
+**Today's Progress**:   working on daily UI challenges in dailyui.co - challenge 005: App icon
+                       (objective: https://www.dailyui.co/)
+**Thoughts**           
+
+**Link(s) to work**: (https://codepen.io/miraka/pen/PoGVyVY)
+
+### Day 50: January 18, 2021
+
+**Today's Progress**:   working on daily UI challenges in dailyui.co - challenge 005: App icon
+                       (objective: https://www.dailyui.co/)
+**Thoughts**           
+
+**Link(s) to work**: (hhttps://codepen.io/miraka/pen/GRjemrY)
+
+
+
